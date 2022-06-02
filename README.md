@@ -5,7 +5,7 @@
 
 Before we begin this lesson, we're going to a bit of travelling back through time. Buckle up!
 
-In the 1980's, computer monitors across the world were mostly the same size. Screens were black with neon green text on them. This was find for basic HTML, where universities like Stanford, Harvard, and MIT could send research papers between each other. The paper's title got an H1, the author's names got an H2, and the actual content was in a Paragraph/P tag. Text was the most important thing, with ideas like positioning and resizing not really crucial for web development at that point.
+In the 1980's, computer monitors across the world were mostly the same size. Screens were black with neon green text on them. This was fine for basic HTML, where universities like Stanford, Harvard, and MIT could send research papers between each other. The paper's title got an H1, the author's names got an H2, and the actual content was in a Paragraph/P tag. Text was the most important thing, with ideas like positioning and resizing not really crucial for web development at that point.
 
 In the 90's, we have the advent of the PC. Suddenly, across the globe, people are going online and downloading images - jpg's and gif's - in full color, and the need for a language that can style pages and position elements becomes a necessity. Enter CSS, with Floats, Margins, Padding, and those nifty color codes. This was a tremendous advance, but was still primative by today's standards.
 
