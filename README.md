@@ -2,6 +2,23 @@
 
 ![Layout](https://i.imgur.com/qsSi07H.png)
 ## Lesson Overview
+
+Before we begin this lesson, we're going to a bit of travelling back through time. Buckle up!
+
+In the 1980's, computer monitors across the world were mostly the same size. They were black with neon green text on them. This was great for basic HTML, where universities like Stanford, Harvard, and MIT could send disertations and research papers between each other. The paper's title got an H1, the author's names got an H2, and the actual content was in a Paragraph/P tag. Easy peasy, no problemo. Text was the most important thing, with ideas like positioning and resizing not really crucial for web development at that point.
+
+In the 90's, we have the advent of the PC. Suddenly, across the globe, people are going online and downloading images - jpg's and gif's - in full color, and the need for a language that can style pages and position elements becomes a necessity. Enter CSS, with Floats, Margins, Padding, and those nifty color codes. This was a tremendous advance, but was still primative by today's standards.
+
+As we entered the 2000's, we saw the rise of incredible technological advances. The computer became available to everyone, laptops allowed all of the power of a PC with full portability, and the rise of the Smartphone meant that we could all use Google, Facebook, and Youtube with a device that fit into our pockets. Online gaming meant that larger monitors became popular, while smartphones phones meant that the size of screens was about to change drastically, getting smaller and smaller, and changing from user to user.
+
+In 2010, if your name happened to rhyme with "Bark Buckerberg", and you wanted your cool new software to be usable by *a billion*  people, you would have to style your webpage to look good on 4 or 5 different sized screens. If you were working with pixels, even if you were working with %'s, this could get real ugly real quick.
+
+In the past decade, we entered what is known as the "Mobile first paradigm" of styling. Having a font size of 36px and a margin of 50px would look wildly different on an iPhone, an iPad, and a 45" monitor. We as programmers needed a way to create *responsive* styling, which would auto-change and position itself based on the size of the screen. We needed something that, with just a few short lines of code, would auto-style to fit any device, and look good on it. 
+
+
+Enter Flex and Grid, two modern CSS frameworks that will allow us to use logic and math to style and position our websites, so that they look good on a 300x600px phone, or a massive 75" HD monitor, and everywhere in between. 
+
+
 In this lesson, we'll learn how to use Flexbox and Grid to align elements in our web pages.  They both have different use cases and each are very valuable to any front end developer.
 
 ## Objectives
