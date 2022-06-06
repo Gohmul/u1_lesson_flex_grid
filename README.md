@@ -4,9 +4,7 @@
 ## Lesson Overview
 
 
-In the past decade, we have entered what is known as the "Mobile first paradigm" of styling. Front End developers have to create sites that look good on many different sized devices, with smaller, Mobile screens taking up a massive share of our screen time.  Having a font size of 36px and a margin of 50px might look great on your Macbook screen in development, but how is it going to look on your Apple Watch when the page is deployed?
-
-To meet this need, we as programmers needed a way to create *responsive* styling, which would auto-change and position itself based on the size of the screen. We needed something that, with just a few short lines of code, would auto-style to fit any device, and look good on it. We wanted powerful, intelligent styling, with minimal, DRY code. You don't get a billion users on your app if your buttons are off-centered and your text is all jumbled on the side! 
+In the past decade, we have entered what is known as the "Mobile first paradigm" of styling. Front End developers have to create sites that look good on many different sized devices, with smaller, Mobile screens taking up a massive share of our screen time.  Having a font size of 36px and a margin of 50px might look great on your Macbook screen in development, but how is it going to look on your Apple Watch when the page is deployed? To meet this need, we as programmers needed a way to create *responsive* styling, which would auto-change and position itself based on the size of the screen. 
 
 
 Enter Flex and Grid, two modern CSS frameworks that will allow us to use logic and math to style and position our websites, so that they look good on a small phone, a massive HD monitor, and everywhere in between. 
