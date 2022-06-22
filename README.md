@@ -402,6 +402,7 @@ We learned all about how to use Flexbox and CSS Grid when trying to lay out our 
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Grid Garden](https://cssgridgarden.com/)
 
-### FUN GAMES TO LEARN CSS 
+### FUN GAMES TO LEARN FLEXBOX 
    - [Flexbox Zombies](https://mastery.games/flexboxzombies/)
    - [Flexbox Defense](http://www.flexboxdefense.com/)
+   
